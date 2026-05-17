@@ -1,9 +1,2 @@
 # repo-reaper
-# repo-reaper
-# repo-reaper
-# repo-reaper
-# repo-reaper
-# repo-reaper
-# repo-reaper
-# repo-reaper
-# example
+# this is a test
